@@ -12,3 +12,4 @@ Insights:
 
  - Country "United States" has the highest success percentage which is around 37%.
 
+<a href="https://ibb.co/MR2vz8P"><img src="https://i.ibb.co/RCvFXhQ/KICKSTARTER-DASHBOARD.png" alt="KICKSTARTER-DASHBOARD" border="0"></a>
